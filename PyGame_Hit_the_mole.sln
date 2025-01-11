@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyGame_Hit_the_mole", "PyGame_Hit_the_mole\PyGame_Hit_the_mole.pyproj", "{3E4025F8-8872-447D-9305-D49DAF2233FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E4025F8-8872-447D-9305-D49DAF2233FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4025F8-8872-447D-9305-D49DAF2233FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B735EAEE-E0F6-4605-974B-2D4C49C28CDA}
+	EndGlobalSection
+EndGlobal
